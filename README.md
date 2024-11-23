@@ -113,6 +113,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Developed as part of the Java Developer track
 
 ## Contact
-Tebogo - @TebogoP - email@example.com
+Tebogo - @TebogoP - tphiri.firi@gmail.com
 
 Project Link: https://github.com/TebogoP/Cinema-Room-Manager
