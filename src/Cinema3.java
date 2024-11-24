@@ -184,7 +184,7 @@ public class Cinema3 {
         int numOfSeatsPerRow = sc.nextInt();
         System.out.println();
         
-        Cinema cinema = new Cinema3(numOfRows ,numOfSeatsPerRow);
+        Cinema3 cinema = new Cinema3(numOfRows ,numOfSeatsPerRow);
         cinema.TotalInc(0,0,numOfRows, numOfSeatsPerRow);
         cinema.start(sc);
     }
