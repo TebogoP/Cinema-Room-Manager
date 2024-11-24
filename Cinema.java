@@ -3,6 +3,7 @@ import java.util.*;
 
 public class Cinema {
     // Work on project. Stage 2/5:Calculate the profit
+    //Work on project. Stage 3/5:Set the ticket price
     public static void TotalInc(int numOfSeatsPerRow,int numOfRows ){
         
         int totalSeats = numOfSeatsPerRow * numOfRows;
@@ -18,6 +19,7 @@ public class Cinema {
         System.out.print("Total income:\n$"+ totalCost);
         
     }
+    
 
     public static void main(String[] args) {
         // Write your code here
